@@ -10,5 +10,5 @@ Em resumo, o *Markdown* é uma linguagem de marcação simples usada para format
 
 
 
-## ### Link Básico Sintaxe Markdown. :link:
+## Link Básico Sintaxe Markdown. :link:
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
